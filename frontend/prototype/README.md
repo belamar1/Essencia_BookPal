@@ -34,7 +34,7 @@ We use Git for version control. Here's how to get started:
 ** Team Members:
 -Andŕes Pérez
 -Susan Brown 
--Busra
+-Busra ünlü
 -Bakhta Elamar
 
 ---
